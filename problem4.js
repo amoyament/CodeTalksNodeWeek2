@@ -16,4 +16,5 @@ const filterNumbers = (arr) => {
 const result = filterNumbers(numbers);
 
 // Console.log to ensure it worked
-console.log(result); // Output: [48, 12, 96]
+console.log(result);
+// Output: [48, 12, 96]
