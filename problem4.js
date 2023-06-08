@@ -17,4 +17,4 @@ const result = filterNumbers(numbers);
 
 // Console.log to ensure it worked
 console.log(result);
-// Output: [48, 12, 96]
+// Output: [48, 12, 12, 96]
