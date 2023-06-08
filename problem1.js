@@ -18,7 +18,7 @@
 // We cannot return multiple arguments.
 // Once a promise is created and initiated, it cannot be paused, resumed, or canceled
 
-// Please code some examples of promises to show to the class.
+// Please code some example of promises to show to the class.
 
 // Create a new Promise with an executor function that takes two parameters: resolve and reject
 var aubreysPromise = new Promise(function (resolve, reject) {

@@ -11,7 +11,6 @@
 // Nesting several callback functions inside of eachother can create code that is difficult to read, understand, and maintain.
 
 // Please code an example of callback hell to show to the class.
-// Select all elements with the class "word" and store them in the 'words' variable
 
 // This callback hell code makes a burger
 const makeBurger = (nextStep) => {
